@@ -1,0 +1,22 @@
+body {
+    background-color: red;
+color: aqua;
+    
+}
+label{
+    background-color: blueviolet;
+}
+
+#row1 {
+width: 300px;
+}
+
+.containers{
+    background-color: aqua;
+}
+h2{
+    color: black;
+}
+.div{
+    color: aquamarine;
+}
